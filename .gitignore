@@ -1,0 +1,5 @@
+# 敏感信息
+*-secret*
+*-token*
+*.bak
+*.backup
